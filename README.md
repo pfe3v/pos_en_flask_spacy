@@ -1,4 +1,4 @@
-# pos_en_flask_spacy
+# Extract Parts of Speech from an English text using Flask and Spacy
 This python app will return a list of words for parts of speech for an English language text.<p>
 The text is pasted in a webpage and returned as 4 separate lists on the page: nouns, verbs, adjectives and adverbs.<p>
 The app requires Flask, Pandas and Spacy (see the requirements file).<p> 
